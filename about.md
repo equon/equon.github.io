@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Hello, I’m Nitish. I am very passionate about integration, I have over seven years of experience as a technology enabler in information technology and services industry. 
+
+**Competencies**: Microsoft BizTalk Server, xTrade Business Communication Suite, Microsoft Azure, Machine Learning, C#, Python, ASP .NET Core, Algorithms and Design Patterns
 
 ### Contact me
 
